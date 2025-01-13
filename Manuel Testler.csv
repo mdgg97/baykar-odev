@@ -1,0 +1,11 @@
+""
+1,Giriş Sayfası Açılabilirliği,Kullanıcı internet erişimine sahip ve adresi biliyor.,Tarayıcıda https://kariyer.baykartech.com/adresine gidilir.,Giriş sayfası sorunsuz yüklenir.
+2,Navbar Elementlerine Tıklama,Kullanıcı siteye erişim sağlamış durumda.,Navbar'daki tüm elementler sırasıyla tıklanır.,Tüm sayfalar sorunsuz açılır ve içerik doğru görüntülenir.
+3,Dil Değiştirme İşlevi,Site birden fazla dil seçeneği sunuyor.,Dil seçimi yapılır ve içerik dil değiştirir.,Seçilen dilde içerik doğru şekilde gösterilir.
+4,Pozisyon Arama,Kullanıcı açık pozisyonlar sayfasına erişmiş durumda.,Pozisyon arama kutusuna bir anahtar kelime girilir ve 'Ara' butonuna tıklanır.,Girilen anahtar kelimeyle eşleşen pozisyonlar listelenir.
+5,Kullanıcı Kaydı,Kullanıcı kayıt sayfasına erişmiş durumda.,Kayıt formu doldurulur ve 'Kaydı Tamamla' butonuna tıklanır.,Kullanıcı başarıyla kaydolur ve onay mesajı görüntülenir.
+6,Şifre Kurtarma,Kullanıcı şifresini unuttu ve kurtarma sayfasına erişmiş durumda.,Şifre kurtarma sayfasında e-posta adresi girilir ve 'Gönder' butonuna tıklanır.,Şifre sıfırlama talimatları e-posta adresine gönderilir.
+7,Filtreleme İşlevselliği,Kullanıcı açık pozisyonlar sayfasında.,Pozisyon filtresi seçilir ve 'Filtrele' butonuna tıklanır.,Liste sadece seçilen filtreye uygun pozisyonları gösterir.
+8,Başvuru Formunun Gönderilmesi,Kullanıcı başvuru formuna erişmiş durumda.,Başvuru formu doldurularak 'Gönder' butonuna tıklanır.,Başvuru formu başarıyla gönderilir ve bir onay mesajı gösterilir.
+9,Sayfa Geçiş Butonları,Kullanıcı herhangi bir sayfaya erişmiş durumda.,Sayfa geçiş butonlarına (ör. 'Sonraki') tıklanır.,Kullanıcı sonraki sayfaya yönlendirilir.
+10,Sayfa Hatasız Yüklenmesi,Kullanıcı site ana sayfasına erişmiş durumda.,Sayfa tamamen yüklenene kadar beklenir.,Sayfa hatasız ve eksiksiz şekilde yüklenir.
